@@ -286,10 +286,6 @@ ol {
   flex-grow: 100%;
 }
 
-.content__card-link {
-  display: block;
-}
-
 .search-form__label:has(:focus-visible),
 .button:focus-visible {
   outline-offset: 1px;

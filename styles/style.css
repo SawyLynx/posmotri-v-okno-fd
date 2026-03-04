@@ -319,7 +319,7 @@ ol {
 }
 
 .button:hover,
-.search-form__label:hover {
+.search-form__checkbox-list .search-form__label:hover {
   text-decoration: underline;
   cursor: pointer;
 }
@@ -331,4 +331,5 @@ ol {
 
 .more-button {
   margin: 3px;
+  flex-shrink: 0;
 }
